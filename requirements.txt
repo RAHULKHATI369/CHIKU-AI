@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph
+google-generativeai
+pandas
+python-dotenv
+websockets
+ntscraper
+pycricbuzz
